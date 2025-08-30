@@ -9,6 +9,7 @@ public class demo_git_123 {
 		
 		System.out.println("local commit");
 		System.out.println("rfemote commit");
+		System.out.println("Branch commit");
 
 	}
 
